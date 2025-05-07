@@ -1,0 +1,3 @@
+# Yazdırma Komutu:
+
+print("Bismillahirrahmanirrahim")
