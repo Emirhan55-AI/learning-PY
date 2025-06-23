@@ -1,0 +1,4 @@
+yeni satır
+yeni satır
+Bu satır append ile eklendi.
+Dosyanın sonuna veri ekleniyor.

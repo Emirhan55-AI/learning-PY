@@ -9,26 +9,13 @@
 x= 1
 y=2.1
 student = False
+print(x,y,student)
 
 name = "Emirhan"
 lastname = " Uysal"
 name2 =name + " " + lastname
-
-a,b,c,d = 2,3,5 ,False
-
-print(x,y,student)
-
 print(name + lastname)
 print(name2)
 
+a,b,c,d = 2,3,5 ,False
 print(a,b,c,d)
-
-
-
-
-
-
-
-
-
-

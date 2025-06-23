@@ -13,27 +13,6 @@ print("My name is {} and surname is {} and is {}".format(name,name,name))
 print(f"My name is {name} {name} {name}")
 
 
-
-# Başka bir örnek 
-
-name = 'Sadık'
-surname = 'Turan'
-age = 36
-greeting = 'My name is '+ name + ' '+ surname + ' and \nI am '+ str(age) + ' years old'
-length = len(greeting)
-
-# print(greeting)
-# print(greeting[0])
-# print(greeting[3])
-# print(greeting[length-1])
-# print(greeting[-1])
-# print(greeting[3:7])
-# print(greeting[3:])
-# print(greeting[:16])
-# print(greeting[2:40:3])
-
-
-
 # Başka bir örnek 
 
 s='12345'*10
